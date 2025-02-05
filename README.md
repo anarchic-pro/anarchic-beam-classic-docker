@@ -1,3 +1,13 @@
+# Anarchic Beam Classic (Docker)
+
+This is the Anarchic Beam Classic distribution.
+
+It is an attempt to revive the legacy Projector for IntelliJ IDEA.
+
+🚧 Work in progress.
+
+# Legacy Readme
+
 # projector-docker
 
 [![obsolete JetBrains project](https://jb.gg/badges/obsolete.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
